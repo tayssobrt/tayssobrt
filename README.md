@@ -64,4 +64,4 @@ Welcome to my GitHub portfolio — here you can explore my projects, progress, a
 
 ### 📈 GitHub Stats
 
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayssobrt)](https://github.com/Tayssobrt/github-readme-stats)
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Tayssobrt/github-readme-stats)
