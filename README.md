@@ -48,7 +48,7 @@ Welcome to my GitHub portfolio, here you can explore my projects, progress, and 
 
 <img align="left" alt="Go" title="Go" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 
-<img align="left" alt="COBOL" title="COBOL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg"/>
+<img align="left" alt="aws" title="aws" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 
 <img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 
@@ -56,7 +56,14 @@ Welcome to my GitHub portfolio, here you can explore my projects, progress, and 
 
 <img align="left" alt="Maven" title="Maven" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"/>
 
-<img align="left" alt="NHibernate" title="NHibernate" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nhibernate/nhibernate-plain-wordmark.svg"/>
+<img align="left" alt="Hibernate" title="Hibernate" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"/>
+
+<img align="left" alt="Swift" title="swift" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+
+<img align="left" alt="kotlin" title="kotlin" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+
+
+
 
 <br/><br/>
 
