@@ -5,7 +5,7 @@
 I'm a 19-year-old developer passionate about technology, problem-solving, and building clean, efficient, and scalable applications.  
 I'm always learning and sharpening my skills, especially in software development, web technologies, and system analysis.
 
-Welcome to my GitHub portfolio — here you can explore my projects, progress, and the solutions I'm building throughout my journey in tech.
+Welcome to my GitHub portfolio, here you can explore my projects, progress, and the solutions I'm building throughout my journey in tech.
 
 <p align="left">
     <a href="https://github.com/tayssobrt?tab=repositories&sort=stargazers">
