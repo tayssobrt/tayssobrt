@@ -71,7 +71,7 @@ Welcome to my GitHub portfolio, here you can explore my projects, progress, and 
 
 ### 📈 Most Used Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayssobrt&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=tayssobrt&layout=compact&theme=tokyonight)
 
 
 ### 📈 GitHub Stats
