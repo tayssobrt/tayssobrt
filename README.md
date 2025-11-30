@@ -73,13 +73,10 @@ Welcome to my GitHub portfolio, here you can explore my projects, progress, and 
 
 ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=tayssobrt&layout=compact&theme=tokyonight)
 
+---
 
-## 📈 Atividade de Commits
+## 📈 Commits Activity
 
+![Commit Activity](https://img.shields.io/github/commit-activity/m/tayssobrt/tayssobrt)
+<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tayssobrt&theme=tokyonight)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/tayssobrt)
-
-
-### 📈 GitHub Stats
-
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Tayssobrt/github-readme-stats)
