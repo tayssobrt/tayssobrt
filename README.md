@@ -76,6 +76,7 @@ Welcome to my GitHub portfolio, here you can explore my projects, progress, and 
 
 ## 📈 Commits Activity
 
-![Commit Activity](https://img.shields.io/github/commit-activity/m/tayssobrt/tayssobrt)
+![Commit Activity]([https://img.shields.io/github/commit-activity/m/tayssobrt/tayssobrt](https://img.shields.io/github/commit-activity/w/tayssobrt/:repo/:branch
+))
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=tayssobrt&theme=solarized-dark&exclude_days=Thu)](https://git.io/streak-stats)
